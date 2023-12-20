@@ -6,4 +6,4 @@ def gerar_num_aleatorio():
 
 num_aleatorio = gerar_num_aleatorio()
 
-print("Número aleatório gerado:", num_aleatorio)
+print("Número gerado aleatoriamente:", num_aleatorio)
